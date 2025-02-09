@@ -2,7 +2,9 @@
 #define EXAMPLE_H
 
 #include <iostream>
-
+/**
+* JAI HIND
+*/
 /**
  * @file example.h
  * @brief This file contains the declaration of the Calculator class.
